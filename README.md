@@ -1,2 +1,3 @@
 # testRepo
-a tes
+a test  
+Testing this repo
